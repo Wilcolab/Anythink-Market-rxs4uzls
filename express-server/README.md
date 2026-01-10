@@ -6,8 +6,28 @@ This project is a simple Express server that listens on port 8001. It is set up 
 
 I need more information to help you update the README. Could you provide:
 
-1. What are the key changes in your new Node.js server?
-2. What migration details should be included (e.g., breaking changes, new dependencies, configuration changes)?
+The README already documents that the server runs on port 8001 and includes clear instructions for setup and running. However, the `$SELECTION_PLACEHOLDER$` section appears incomplete.
+
+Here's suggested content to replace it:
+
+## Prerequisites
+
+- Node.js and npm installed on your machine
+- Docker installed on your machine
+
+## Key Changes from Python Server
+
+- **Language**: Migrated from Python to Node.js/Express
+- **Port**: Server runs on port 8001
+- **Hot Reload**: Uses `nodemon` for automatic code reloading during development
+- **New Dependencies**: Express.js framework and nodemon dev dependency
+
+## Breaking Changes
+
+- Python-specific code and dependencies are no longer used
+- Update any client code pointing to the old Python server endpoints if applicable
+
+The existing README is accurate and clear about prerequisites, installation, running the server, and Docker usage. All sections properly reference port 8001.
 3. What specific content should replace the `$SELECTION_PLACEHOLDER$`?
 
 Once you provide these details, I can help you update the markdown accordingly.
