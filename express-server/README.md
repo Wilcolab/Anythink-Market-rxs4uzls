@@ -4,8 +4,13 @@ This project is a simple Express server that listens on port 8001. It is set up 
 
 ## Getting Started
 
-### Prerequisites
+I need more information to help you update the README. Could you provide:
 
+1. What are the key changes in your new Node.js server?
+2. What migration details should be included (e.g., breaking changes, new dependencies, configuration changes)?
+3. What specific content should replace the `$SELECTION_PLACEHOLDER$`?
+
+Once you provide these details, I can help you update the markdown accordingly.
 - Node.js and npm (or Yarn) installed on your machine.
 - Docker installed on your machine.
 
