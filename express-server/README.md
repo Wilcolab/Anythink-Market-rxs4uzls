@@ -31,7 +31,8 @@ To start the server with automatic reloading, use:
 yarn start
 ```
 
-The server will be running at `http://localhost:8001`.
+The server will be running at http://localhost:8001
+The node server is running on port 8001
 
 ### Building the Docker Image
 
@@ -49,7 +50,8 @@ To run the Docker container, use:
 docker run -p 8001:8001 express-server
 ```
 
-The server will be accessible at `http://localhost:8001`.
+The server will be accessible at http://localhost:8001
+The node server is running on port 8001
 
 ### License
 
