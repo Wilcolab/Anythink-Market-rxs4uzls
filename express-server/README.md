@@ -2,13 +2,6 @@
 
 This project is a simple Express server that the node server is running on port 8001. It is set up for automatic code reloading using `nodemon` and can be run in a Docker container.
 
-## Getting Started
-
-### Prerequisites
-
-- Node.js and npm (or Yarn) installed on your machine.
-- Docker installed on your machine.
-
 ### Installation
 
 1. Clone the repository:
