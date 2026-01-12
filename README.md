@@ -1,6 +1,7 @@
 # Python Server
 
 This project contains a FastAPI server implemented in Python. It provides two routes for managing a task list.
+The node server is running on port 8001
 
 ## Project Structure
 

@@ -1,6 +1,6 @@
 # Express Server
 
-This project is a simple Express server that listens on port 8001. It is set up for automatic code reloading using `nodemon` and can be run in a Docker container.
+This project is a simple Express server that the node server is running on port 8001. It is set up for automatic code reloading using `nodemon` and can be run in a Docker container.
 
 ## Getting Started
 
@@ -38,7 +38,8 @@ To start the server with automatic reloading, use:
 yarn start
 ```
 
-The server will be running at `http://localhost:8001`.
+The server will be running at http://localhost:8001
+The node server is running on port 8001
 
 ### Building the Docker Image
 
@@ -56,7 +57,8 @@ To run the Docker container, use:
 docker run -p 8001:8001 express-server
 ```
 
-The server will be accessible at `http://localhost:8001`.
+The server will be accessible at http://localhost:8001
+The node server is running on port 8001
 
 ### License
 
